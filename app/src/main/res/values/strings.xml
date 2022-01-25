@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Curso Moviles</string>
+    <string name="default_button">Clickeame</string>
+    <string name="negative_button">No me clickees</string>
+    <string name="counter">Contador</string>
+    <string name="counter_placeholder">0</string>
+    <string name="minus_btn">-</string>
+    <string name="plus_btn">+</string>
+</resources>
